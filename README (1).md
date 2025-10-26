@@ -107,6 +107,5 @@ This returns total working hours for employee ID 5 in October 2025.
 
 ## 🧑‍💻 Author
 **Project by:** Aafrin Fathma K  
-**Guide:** ChatGPT (PostgreSQL Automation Assistant)
 
 ---
